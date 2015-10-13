@@ -47,3 +47,39 @@ Playing with pixels in real time, doing some math do substract the color pixels 
 Trigger events if there is a change between consecutive frames
 
 <img src="https://github.com/hacklabes/HackNights_ImageProcessing/blob/master/images/07.png" width="300">
+
+
+
+**[OpenCV Background Subtraction](HackNights_06OpenCVBackgroundSubtraction)**
+
+<img src="https://github.com/hacklabes/HackNights_ImageProcessing/blob/master/images/background_substraction.png" width="300">
+
+
+**[Pixel Threshold](HackNights_07PixelThreshold)**
+
+<img src="https://github.com/hacklabes/HackNights_ImageProcessing/blob/master/images/pixel_thereshold.png" width="300">
+
+**[Pixel Contrast](HackNights_08PixelContrast)**
+
+<img src="https://github.com/hacklabes/HackNights_ImageProcessing/blob/master/images/pixel_contrast.png" width="300">
+
+**[OpenCV Image Filtering](HackNights_09OpenCVImageFiltering)**
+
+<img src="https://github.com/hacklabes/HackNights_ImageProcessing/blob/master/images/image_filtering.png" width="300">
+
+**[Pixel Image Filtering](HackNights_09PixelImageFiltering)**
+
+<img src="https://github.com/hacklabes/HackNights_ImageProcessing/blob/master/images/pixel_image_filtering.png" width="300">
+
+**[Blob Contour Detection](HackNights_10Blobs)**
+
+<img src="https://github.com/hacklabes/HackNights_ImageProcessing/blob/master/images/blobs.png" width="300">
+
+**[Haar Detection](HackNights_11Haar)**
+
+<img src="https://github.com/hacklabes/HackNights_ImageProcessing/blob/master/images/haar_nose.png" width="300">
+
+**[Interactive Contour Detection](HackNights_12ContourGrayThreshold)**
+
+<img src="https://github.com/hacklabes/HackNights_ImageProcessing/blob/master/images/blob_detection.png" width="300">
+
